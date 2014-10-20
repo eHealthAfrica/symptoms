@@ -1,0 +1,16 @@
+{
+  "name": "symptoms",
+  "version": "0.0.0",
+  "homepage": "https://github.com/eHealthAfrica/symptoms",
+  "authors": [],
+  "description": "JSON symptoms data",
+  "license": "MIT",
+  "main": "angular-modules/symptoms.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
