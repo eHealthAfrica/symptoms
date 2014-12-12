@@ -51,11 +51,8 @@
   "synonyms": ["haemorrhagic"],
   "name": "unexplained bleedings"
 }, {
-  "code": "maculopapular",
-  "synonyms": ["haemorrhagic"],
-  "name": "maculopapular"
-}, {
   "code": "rash",
   "name": "rash",
+  "synonyms": ["maculopapular"],
   "description": "Post-viral rash. This is the type of rash that some patients presenting with EbolaZaire hemorrhagic (EBO-Z) fever will reveal but can be hard to see on dark skin people"
 }]
