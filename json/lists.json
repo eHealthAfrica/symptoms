@@ -1,4 +1,34 @@
 [{
+  "countryCode": "default",
+  "followUp": [
+      "diarrhea",
+      "headache",
+      "intense_fatigue",
+      "muscular_pain",
+      "nausea_vomiting",
+      "sore_throat",
+      "unexplained_bleedings",
+      "rash"
+  ],
+  "case": [
+      "abdominal_pains",
+      "articular_pain",
+      "diarrhea",
+      "difficulty_breathing",
+      "difficulty_swallowing",
+      "headache",
+      "hiccups",
+      "intense_fatigue",
+      "loss_of_appetite",
+      "muscular_pain",
+      "nausea_vomiting",
+      "sore_throat",
+      "temperature",
+      "thoracic_pain",
+      "unexplained_bleedings",
+      "rash"
+  ]
+},{
   "countryCode": "gn",
   "followUp": [],
   "case": []
