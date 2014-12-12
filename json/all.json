@@ -41,9 +41,6 @@
   "synonyms": ["pharyngitis"],
   "name": "sore throat"
 }, {
-  "code": "temperature",
-  "name": "temperature"
-}, {
   "code": "thoracic_pain",
   "name": "thoracic pain"
 }, {
