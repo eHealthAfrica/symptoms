@@ -5,19 +5,19 @@ Javascript variable names
 
 A symptom has the following structure:
 
-{
-  code: '',
-  name: '',
-  description: '',
-  synonyms: [''],
-  translations: {
-    fr: {
+    {
+      code: '',
       name: '',
       description: '',
-      synonyms: ['']
+      synonyms: [''],
+      translations: {
+        fr: {
+          name: '',
+          description: '',
+          synonyms: ['']
+        }
+      }
     }
-  }
-}
 
 Name and code are mandatory.
 
