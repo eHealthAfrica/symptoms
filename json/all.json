@@ -1,71 +1,167 @@
 [{
   "code": "abdominal_pains",
   "name": "abdominal pains",
-  "shortname": "Abd"
+  "shortname": "Abd",
+  "translations": {
+    "fr": {
+      "name": "douleurs abdominales",
+      "shortname": "Abd"
+    }
+  }
 }, {
   "code": "articular_pain",
   "name": "articular pain",
-  "shortname": "Art"
+  "shortname": "Art",
+  "translations": {
+    "fr": {
+      "name": "douleurs articulaires",
+      "shortname": "Art"
+    }
+  }
 }, {
   "code": "cough",
   "name": "cough",
-  "shortname": "Co"
+  "shortname": "Co",
+  "translations": {
+    "fr": {
+      "name": "toux",
+      "shortname": "To"
+    }
+  }
 }, {
   "code": "diarrhea",
   "synonyms": ["diarrhoea"],
   "name": "diarrhea",
-  "shortname": "D"
+  "shortname": "D",
+  "translations": {
+    "fr": {
+      "name": "diarrhées",
+      "shortname": "D"
+    }
+  }
 }, {
   "code": "difficulty_breathing",
   "name": "difficulty breathing",
-  "shortname": "Br"
+  "shortname": "Br",
+  "translations": {
+    "fr": {
+      "name": "difficulté à réspirer",
+      "shortname": "Re"
+    }
+  }
 }, {
   "code": "difficulty_swallowing",
   "name": "difficulty swallowing",
-  "shortname": "Sw"
+  "shortname": "Sw",
+  "translations": {
+    "fr": {
+      "name": "difficultés à avaler",
+      "shortname": "Av"
+    }
+  }
 }, {
   "code": "headache",
   "name": "headache",
-  "shortname": "He"
+  "shortname": "He",
+  "translations": {
+    "fr": {
+      "name": "maux de tête",
+      "shortname": "Te"
+    }
+  }
 }, {
   "code": "hiccups",
   "name": "hiccups",
-  "shortname": "Hi"
+  "shortname": "Hi",
+  "translations": {
+    "fr": {
+      "name": "hoquet",
+      "shortname": "Ho"
+    }
+  }
 }, {
   "code": "intense_fatigue",
   "name": "intense fatigue",
   "synonyms": ["malaise"],
-  "shortname": "Mal"
+  "shortname": "Mal",
+  "translations": {
+    "fr": {
+      "name": "fatigue générale intense",
+      "shortname": "Fat"
+    }
+  }
 }, {
   "code": "loss_of_appetite",
   "name": "loss of appetite",
-  "shortname": "Ap"
+  "shortname": "Ap",
+  "translations": {
+    "fr": {
+      "name": "perte d'appétit / anorexie",
+      "shortname": "Ap"
+    }
+  }
 }, {
   "code": "muscular_pain",
   "name": "muscular pain",
-  "shortname": "Mu"
+  "shortname": "Mu",
+  "translations": {
+    "fr": {
+      "name": "douleurs musculaires",
+      "shortname": "Mu"
+    }
+  }
 }, {
   "code": "nausea_vomiting",
   "name": "nausea vomiting",
-  "shortname": "V"
+  "shortname": "V",
+  "translations": {
+    "fr": {
+      "name": "nausées / vomissements",
+      "shortname": "V"
+    }
+  }
 }, {
   "code": "sore_throat",
   "synonyms": ["pharyngitis"],
   "name": "sore throat",
-  "shortname": "P"
+  "shortname": "Ph",
+  "translations": {
+    "fr": {
+      "name": "mal à la gorge",
+      "shortname": "Ph"
+    }
+  }
 }, {
   "code": "thoracic_pain",
   "name": "thoracic pain",
-  "shortname": "Tho"
+  "shortname": "Tho",
+  "translations": {
+    "fr": {
+      "name": "douleurs thoraciques",
+      "shortname": "Tho"
+    }
+  }
 }, {
   "code": "unexplained_bleedings",
   "synonyms": ["haemorrhagic"],
   "name": "unexplained bleedings",
-  "shortname": "Hem"
+  "shortname": "Hem",
+  "translations": {
+    "fr": {
+      "name": "saignement inexpliqué",
+      "shortname": "Hem"
+    }
+  }
 }, {
   "code": "rash",
   "name": "rash",
   "synonyms": ["maculopapular"],
   "description": "Post-viral rash. This is the type of rash that some patients presenting with EbolaZaire hemorrhagic (EBO-Z) fever will reveal but can be hard to see on dark skin people",
-  "shortname": "Ra"
+  "shortname": "Ra",
+  "translations": {
+    "fr": {
+      "name": "éruption cutanée",
+      "shortname": "Er"
+    }
+  }
 }]
