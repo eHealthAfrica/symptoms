@@ -1,0 +1,11 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+
+## [1.2.0] - 2014-12-16
+### Added
+- French names and short names
+
+- - -
+
+Change log structured according to http://keepachangelog.com/
