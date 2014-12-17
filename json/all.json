@@ -1,5 +1,5 @@
 [{
-  "code": "abdominalPains",
+  "code": "abdominal_pains",
   "name": "abdominal pains",
   "shortname": "Abd",
   "translations": {
@@ -9,7 +9,7 @@
     }
   }
 }, {
-  "code": "articularPain",
+  "code": "articular_pain",
   "name": "articular pain",
   "shortname": "Art",
   "translations": {
@@ -40,7 +40,7 @@
     }
   }
 }, {
-  "code": "difficultyBreathing",
+  "code": "difficulty_breathing",
   "name": "difficulty breathing",
   "shortname": "Br",
   "translations": {
@@ -50,7 +50,7 @@
     }
   }
 }, {
-  "code": "difficultySwallowing",
+  "code": "difficulty_swallowing",
   "name": "difficulty swallowing",
   "shortname": "Sw",
   "translations": {
@@ -80,7 +80,7 @@
     }
   }
 }, {
-  "code": "intenseFatigue",
+  "code": "intense_fatigue",
   "name": "intense fatigue",
   "synonyms": ["malaise"],
   "shortname": "Mal",
@@ -91,7 +91,7 @@
     }
   }
 }, {
-  "code": "lossOfAppetite",
+  "code": "loss_of_appetite",
   "name": "loss of appetite",
   "shortname": "Ap",
   "translations": {
@@ -101,7 +101,7 @@
     }
   }
 }, {
-  "code": "muscularPain",
+  "code": "muscular_pain",
   "name": "muscular pain",
   "shortname": "Mu",
   "translations": {
@@ -111,7 +111,7 @@
     }
   }
 }, {
-  "code": "nauseaVomiting",
+  "code": "nausea_vomiting",
   "name": "nausea vomiting",
   "shortname": "V",
   "translations": {
@@ -121,7 +121,7 @@
     }
   }
 }, {
-  "code": "soreThroat",
+  "code": "sore_throat",
   "synonyms": ["pharyngitis"],
   "name": "sore throat",
   "shortname": "Ph",
@@ -132,7 +132,7 @@
     }
   }
 }, {
-  "code": "thoracicPain",
+  "code": "thoracic_pain",
   "name": "thoracic pain",
   "shortname": "Tho",
   "translations": {
@@ -142,7 +142,7 @@
     }
   }
 }, {
-  "code": "unexplainedBleedings",
+  "code": "unexplained_bleedings",
   "synonyms": ["haemorrhagic"],
   "name": "unexplained bleedings",
   "shortname": "Hem",
