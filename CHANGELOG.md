@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## [1.2.2] - 2014-12-17
-### Refactored
+### Changed
 - Change the symptom codes to camel case
 
 ## [1.2.1] - 2014-12-16
