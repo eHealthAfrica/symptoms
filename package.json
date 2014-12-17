@@ -1,6 +1,6 @@
 {
   "name": "symptoms",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "JSON symptoms data",
   "main": "make.js",
   "scripts": {
