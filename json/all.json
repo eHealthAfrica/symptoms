@@ -164,4 +164,24 @@
       "shortname": "Er"
     }
   }
+}, {
+  "code": "red_eyes",
+  "name": "red eyes",
+  "shortname": "Re",
+  "translations": {
+    "fr": {
+      "name": "yeux rouges",
+      "shortname": "Yr"
+    }
+  }
+}, {
+  "code": "other_symptoms",
+  "name": "other symptoms",
+  "shortname": "Other",
+  "translations": {
+    "fr": {
+      "name": "autres symptômes",
+      "shortname": "Autres"
+    }
+  }
 }]

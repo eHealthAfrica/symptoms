@@ -37,6 +37,6 @@
   "case": []
 }, {
   "countryCode": "lr",
-  "followUp": [],
+  "followUp": ["red_eyes","other_symptoms"],
   "case": []
 }]
