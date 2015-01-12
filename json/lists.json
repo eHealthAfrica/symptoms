@@ -37,6 +37,17 @@
   "case": []
 }, {
   "countryCode": "lr",
-  "followUp": [],
+  "followUp": [
+      "diarrhea",
+      "headache",
+      "intense_fatigue",
+      "muscular_pain",
+      "nausea_vomiting",
+      "sore_throat",
+      "unexplained_bleedings",
+      "rash",
+      "red_eyes",
+      "other_symptoms"
+    ],
   "case": []
 }]
