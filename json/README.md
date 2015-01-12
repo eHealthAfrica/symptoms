@@ -5,7 +5,7 @@ Javascript variable names
 
 A symptom has the following structure:
 
-```json
+```
     {
       code: '',
       name: '',
@@ -32,7 +32,7 @@ Use lowercase strings for names.
 
 The file has the following structure:
 
-```json
+```
     [
       {
         countryCode: 'default|gn|ml|lr|sl|mg',
