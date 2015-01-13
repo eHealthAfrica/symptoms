@@ -38,15 +38,15 @@
 }, {
   "countryCode": "lr",
   "followUp": [
+      "muscular_pain",
+      "intense_fatigue",
+      "nausea_vomiting",
       "diarrhea",
       "headache",
-      "intense_fatigue",
-      "muscular_pain",
-      "nausea_vomiting",
       "sore_throat",
+      "red_eyes",
       "unexplained_bleedings",
       "rash",
-      "red_eyes",
       "other_symptoms"
     ],
   "case": []

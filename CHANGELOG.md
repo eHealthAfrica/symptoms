@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.3.1] - 2015-01-13
+### Changed
+- Changed order of symptoms for Liberia followup
+
 ## [1.3.0] - 2015-01-12
 ### Added
 - Added two new symptoms only for Liberia followup
