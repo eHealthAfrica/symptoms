@@ -1,6 +1,7 @@
 [{
   "countryCode": "default",
   "followUp": [
+      "fever",
       "diarrhea",
       "headache",
       "intense_fatigue",
@@ -38,6 +39,7 @@
 }, {
   "countryCode": "lr",
   "followUp": [
+      "fever",
       "muscular_pain",
       "intense_fatigue",
       "nausea_vomiting",
