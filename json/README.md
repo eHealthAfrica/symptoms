@@ -1,6 +1,13 @@
 Use snake case for file names here, since they will be used to create
 Javascript variable names
 
+The `all.json` file contains the collection of all symptoms used in any
+app.
+
+The `lists.json` file contains the ordered lists of symptoms the
+various apps use, also depending on country. The symptoms from
+`all.json` are just referenced by their code here.
+
 ## Data model
 
 A symptom has the following structure:
