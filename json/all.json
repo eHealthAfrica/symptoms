@@ -9,6 +9,16 @@
     }
   }
 }, {
+  "code": "fever",
+  "name": "fever",
+  "shortname": "Fever",
+  "translations": {
+    "fr": {
+      "name": "fièvre",
+      "shortname": "Fièvre"
+    }
+  }
+}, {
   "code": "articular_pain",
   "name": "articular pain",
   "shortname": "Art",
