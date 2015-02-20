@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [Unreleased][unreleased]
+### Added
+- Added symptoms for Sierra Leone followup
+
+### Changed
+- Short name for fever
+
 ## [1.3.1] - 2015-01-13
 ### Changed
 - Changed order of symptoms for Liberia followup

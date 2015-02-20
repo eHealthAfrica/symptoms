@@ -9,23 +9,35 @@
     }
   }
 }, {
-  "code": "fever",
-  "name": "fever",
-  "shortname": "Fever",
-  "translations": {
-    "fr": {
-      "name": "fièvre",
-      "shortname": "Fièvre"
-    }
-  }
-}, {
   "code": "articular_pain",
+  "synonyms": ["joint pain"],
   "name": "articular pain",
   "shortname": "Art",
   "translations": {
     "fr": {
       "name": "douleurs articulaires",
       "shortname": "Art"
+    }
+  }
+}, {
+  "code": "back_pain",
+  "name": "backache",
+  "shortname": "Bk",
+  "translations": {
+    "fr": {
+      "name": "mal au dos",
+      "shortname": "Dos"
+    }
+  }
+}, {
+  "code": "bruises",
+  "synonyms": ["bruising"],
+  "name": "bruises",
+  "shortname": "Br",
+  "translations": {
+    "fr": {
+      "name": "contusions",
+      "shortname": "Cnt"
     }
   }
 }, {
@@ -70,6 +82,16 @@
     }
   }
 }, {
+  "code": "fever",
+  "name": "fever",
+  "shortname": "Fvr",
+  "translations": {
+    "fr": {
+      "name": "fièvre",
+      "shortname": "Fvr"
+    }
+  }
+}, {
   "code": "headache",
   "name": "headache",
   "shortname": "He",
@@ -92,12 +114,23 @@
 }, {
   "code": "intense_fatigue",
   "name": "intense fatigue",
-  "synonyms": ["malaise"],
+  "synonyms": ["malaise", "weakness"],
   "shortname": "Mal",
   "translations": {
     "fr": {
       "name": "fatigue générale intense",
       "shortname": "Fat"
+    }
+  }
+}, {
+  "code": "jaundice",
+  "name": "jaundice",
+  "synonyms": ["yellowing"],
+  "shortname": "Jnd",
+  "translations": {
+    "fr": {
+      "name": "ictère",
+      "shortname": "Ict"
     }
   }
 }, {
@@ -143,6 +176,7 @@
   }
 }, {
   "code": "thoracic_pain",
+  "synonyms": ["chest pain"],
   "name": "thoracic pain",
   "shortname": "Tho",
   "translations": {
