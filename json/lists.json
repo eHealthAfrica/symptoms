@@ -28,12 +28,8 @@
       "unexplained_bleedings",
       "rash"
   ]
-},{
-  "countryCode": "gn",
-  "followUp": [],
-  "case": []
 }, {
-  "countryCode": "ml",
+  "countryCode": "gn",
   "followUp": [],
   "case": []
 }, {
@@ -49,6 +45,32 @@
       "red_eyes",
       "unexplained_bleedings",
       "rash",
+      "other_symptoms"
+    ],
+  "case": []
+}, {
+  "countryCode": "ml",
+  "followUp": [],
+  "case": []
+}, {
+  "countryCode": "sl",
+  "followUp": [
+      "fever",
+      "muscular_pain",
+      "articular_pain",
+      "intense_fatigue",
+      "nausea_vomiting",
+      "diarrhea",
+      "abdominal_pains",
+      "headache",
+      "back_pain",
+      "chest_pain",
+      "sore_throat",
+      "rash",
+      "bruises",
+      "red_eyes",
+      "unexplained_bleedings",
+      "jaundice",
       "other_symptoms"
     ],
   "case": []
