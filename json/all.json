@@ -41,16 +41,6 @@
     }
   }
 }, {
-  "code": "chest_pain",
-  "name": "chest pain",
-  "shortname": "Chs",
-  "translations": {
-    "fr": {
-      "name": "douleurs à la poitrine",
-      "shortname": "Ptr"
-    }
-  }
-}, {
   "code": "cough",
   "name": "cough",
   "shortname": "Co",
@@ -186,6 +176,7 @@
   }
 }, {
   "code": "thoracic_pain",
+  "synonyms": ["chest pain"],
   "name": "thoracic pain",
   "shortname": "Tho",
   "translations": {
