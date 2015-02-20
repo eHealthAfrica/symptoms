@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased][unreleased]
+## [1.4.0] - 2015-02-20
 ### Added
 - Added symptoms for Sierra Leone followup
 
