@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [Unreleased][unreleased]
+## [1.5.0] - 2015-02-24
 ### Removed
 - Removed rash symptom for Liberia followup
 
