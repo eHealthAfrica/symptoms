@@ -54,7 +54,7 @@
   "code": "diarrhea",
   "synonyms": ["diarrhoea"],
   "name": "diarrhea",
-  "shortname": "D",
+  "shortname": "Dr",
   "translations": {
     "fr": {
       "name": "diarrhées",
@@ -84,7 +84,7 @@
 }, {
   "code": "fever",
   "name": "fever",
-  "shortname": "Fvr",
+  "shortname": "Fv",
   "translations": {
     "fr": {
       "name": "fièvre",
@@ -94,7 +94,7 @@
 }, {
   "code": "headache",
   "name": "headache",
-  "shortname": "He",
+  "shortname": "Ha",
   "translations": {
     "fr": {
       "name": "maux de tête",
@@ -115,7 +115,7 @@
   "code": "intense_fatigue",
   "name": "intense fatigue",
   "synonyms": ["malaise", "weakness"],
-  "shortname": "Mal",
+  "shortname": "Wk",
   "translations": {
     "fr": {
       "name": "fatigue générale intense",
@@ -146,7 +146,7 @@
 }, {
   "code": "muscular_pain",
   "name": "muscular pain",
-  "shortname": "Mu",
+  "shortname": "Msc",
   "translations": {
     "fr": {
       "name": "douleurs musculaires",
@@ -156,7 +156,7 @@
 }, {
   "code": "nausea_vomiting",
   "name": "nausea vomiting",
-  "shortname": "V",
+  "shortname": "Vm",
   "translations": {
     "fr": {
       "name": "nausées / vomissements",
@@ -167,7 +167,7 @@
   "code": "sore_throat",
   "synonyms": ["pharyngitis"],
   "name": "sore throat",
-  "shortname": "Ph",
+  "shortname": "St",
   "translations": {
     "fr": {
       "name": "mal à la gorge",
@@ -189,7 +189,7 @@
   "code": "unexplained_bleedings",
   "synonyms": ["haemorrhagic"],
   "name": "unexplained bleedings",
-  "shortname": "Hem",
+  "shortname": "Bl",
   "translations": {
     "fr": {
       "name": "saignement inexpliqué",
@@ -221,7 +221,7 @@
 }, {
   "code": "other_symptoms",
   "name": "other symptoms",
-  "shortname": "Other",
+  "shortname": "Oth",
   "translations": {
     "fr": {
       "name": "autres symptômes",
