@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.6.0 - 2015-02-25
+### Changed
+- Changed abbreviations for English, according to ticket 1520. This
+  does not affect the way data is encoded
+
 ## [1.5.0] - 2015-02-24
 ### Removed
 - Removed rash symptom for Liberia followup
