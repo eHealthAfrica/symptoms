@@ -10,9 +10,9 @@
   }
 }, {
   "code": "articular_pain",
-  "synonyms": ["joint pain"],
-  "name": "articular pain",
-  "shortname": "Art",
+  "synonyms": ["articular pain"],
+  "name": "joint pain",
+  "shortname": "Jnt",
   "translations": {
     "fr": {
       "name": "douleurs articulaires",
@@ -21,7 +21,7 @@
   }
 }, {
   "code": "back_pain",
-  "name": "backache",
+  "name": "back ache",
   "shortname": "Bk",
   "translations": {
     "fr": {
@@ -31,8 +31,8 @@
   }
 }, {
   "code": "bruises",
-  "synonyms": ["bruising"],
-  "name": "bruises",
+  "synonyms": ["bruises"],
+  "name": "bruising",
   "shortname": "Br",
   "translations": {
     "fr": {
@@ -113,7 +113,7 @@
   }
 }, {
   "code": "intense_fatigue",
-  "name": "intense fatigue",
+  "name": "intense fatigue or weakness",
   "synonyms": ["malaise", "weakness"],
   "shortname": "Wk",
   "translations": {
@@ -145,7 +145,8 @@
   }
 }, {
   "code": "muscular_pain",
-  "name": "muscular pain",
+  "synonyms": ["muscular pain"],
+  "name": "muscles or joints",
   "shortname": "Msc",
   "translations": {
     "fr": {
@@ -164,9 +165,20 @@
     }
   }
 }, {
+  "code": "neck_rigidity",
+  "synonyms": ["neck stiffness"],
+  "name": "neck rigidity",
+  "shortname": "Nk",
+  "translations": {
+    "fr": {
+      "name": "raideur de la nuque",
+      "shortname": "Nq"
+    }
+  }
+}, {
   "code": "sore_throat",
   "synonyms": ["pharyngitis"],
-  "name": "sore throat",
+  "name": "sore throat or swallowing",
   "shortname": "St",
   "translations": {
     "fr": {
@@ -176,9 +188,9 @@
   }
 }, {
   "code": "thoracic_pain",
-  "synonyms": ["chest pain"],
-  "name": "thoracic pain",
-  "shortname": "Tho",
+  "synonyms": ["thoracic pain"],
+  "name": "chest pain",
+  "shortname": "Chs",
   "translations": {
     "fr": {
       "name": "douleurs thoraciques",

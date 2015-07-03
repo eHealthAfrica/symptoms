@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.7.0 - 2015-07-03
+### Added
+- Neck rigidity as symptom for Sierra Leone
+
+### Changed
+- Changed names of symptoms specific to Sierra Leone to better match existing paper form
+
 ## 1.6.0 - 2015-02-25
 ### Changed
 - Changed abbreviations for English, according to ticket 1520. This
